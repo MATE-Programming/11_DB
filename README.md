@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/11_DB/blob/main/lab_11.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_11.svg)
 # Практическое задание для работы с базами данных(БД)
 
 
